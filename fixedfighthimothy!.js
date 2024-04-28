@@ -18,7 +18,7 @@ while (true) {
         food -= 3
         character += 5
         document.write("You used 3 food and got way stronger!")
-        document.write(nameaction + "'s power level is now " + string(character) + "!")
+        document.write(nameaction + "'s power level is now " + character.toString() + "!")
     }
     if (action === "work") {
         if (character > 15 < 20) {
