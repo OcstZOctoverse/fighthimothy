@@ -55,7 +55,7 @@ while (true) {
             break;
         }
         if (character < himothy) {
-            document.write("Himothy comes out on top!)
+            document.write("Himothy comes out on top!")
         }
     }
     if (food <= 0) { 
