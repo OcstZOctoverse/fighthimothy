@@ -54,6 +54,9 @@ while (true) {
             document.write("Himothy: Augghh... you beat me...")
             break;
         }
+        if (character < himothy) {
+            document.write("Himothy comes out on top!)
+        }
     }
     if (food <= 0) { 
         document.write("You starved to death!")
