@@ -33,7 +33,7 @@ while (true) {
             food += 10
             document.write("You got 10 food for your hard work!")
         }
-        else {
+        else if (character < 15) {
             document.write("You got no food!")
         }
     }
