@@ -1,1 +1,1 @@
-I'm not sure if this will work if you fork it, so you can copy the code.
+I made this in a few minutes to re-learn js
